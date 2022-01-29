@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\Patika\\C# Ders Ödevleri\\C# Ders Ödevleri.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\Patika\\C# Ders Ödevleri\\C# Örnek 1\\Ornek1\\Ornek1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\Patika\\C# Ders Ödevleri\\C# Ders Ödevleri.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\Patika\\C# Ders Ödevleri\\C# Örnek 1\\Ornek1\\Ornek1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Patika\\C# Ders Ödevleri\\C# Ders Ödevleri.csproj",
-        "projectName": "C# Ders Ödevleri",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Patika\\C# Ders Ödevleri\\C# Ders Ödevleri.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Patika\\C# Ders Ödevleri\\C# Örnek 1\\Ornek1\\Ornek1.csproj",
+        "projectName": "Ornek1",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Patika\\C# Ders Ödevleri\\C# Örnek 1\\Ornek1\\Ornek1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Patika\\C# Ders Ödevleri\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Patika\\C# Ders Ödevleri\\C# Örnek 1\\Ornek1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
