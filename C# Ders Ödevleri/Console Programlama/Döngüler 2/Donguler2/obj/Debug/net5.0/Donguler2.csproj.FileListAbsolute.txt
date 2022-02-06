@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\bin\Debug\net5.0\Donguler2.exe
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\bin\Debug\net5.0\Donguler2.deps.json
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\bin\Debug\net5.0\Donguler2.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\bin\Debug\net5.0\Donguler2.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\bin\Debug\net5.0\Donguler2.dll
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\bin\Debug\net5.0\ref\Donguler2.dll
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\bin\Debug\net5.0\Donguler2.pdb
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\obj\Debug\net5.0\Donguler2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\obj\Debug\net5.0\Donguler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\obj\Debug\net5.0\Donguler2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\obj\Debug\net5.0\Donguler2.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\obj\Debug\net5.0\Donguler2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\obj\Debug\net5.0\Donguler2.dll
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\obj\Debug\net5.0\ref\Donguler2.dll
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\obj\Debug\net5.0\Donguler2.pdb
+C:\Users\User\Documents\GitHub\Patika\C# Ders Ödevleri\Console Programlama\Döngüler 2\Donguler2\obj\Debug\net5.0\Donguler2.genruntimeconfig.cache
