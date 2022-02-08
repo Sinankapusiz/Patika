@@ -27,6 +27,13 @@ namespace Donguler2
                 Console.Write(character);
                 character++;
             }
+
+            Console.WriteLine("***** Foreach *****");
+            string[] arabalar ={"BMW","FORD","TOYOTA","NİSSAN"};
+            foreach (var item in arabalar)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
